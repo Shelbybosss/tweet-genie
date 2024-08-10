@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tweetpostnews",
+  "private_key_id": "a73a420f2070d118ca7e1bf0b2cf99b2faf88468",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6uTKBIfYnM1do\nU4AKOsHqSbjyhPiMy/mgd+OzKfduKxqQaQGlmPo7KJis/FQObJW54ZZS/+aGYyYZ\nQDLs9jADf8kz+7otC9PFOICTjay25Vg0bjwN3/b4L9EHARQ7teTa54NFHXRhKAd5\nBxfc56fIRegM7uBt3V450W/5xhpUEt22D3Oai/O8W5qozxrJxvhpBhOpuXAO8aGB\ndrxGCQNT7QNK74SptUlEfQEPB0y0l05tcrSihp3XcTdxBOTnPOHQ2jV1+KwdhN+V\nwqcDP2TIPjvtHlAk/WQg8FbUHmROb/gxbCp8fZIzahFyTw7DNrW2F+uIAJzc/CGR\nbH5h0h1pAgMBAAECggEAAt74GijbL7fICfBGvAwykRdNwwTXttUoDcHqJrC9f4cl\neGpKPoaUn7Y8arnSfQpJtGWgjxQk3OocsC9e2RU2oHHQNn68r8FKd0eAH+9XZCnb\nP6sg50G1+r5EI4HDvYtKwobkFiWhdXZNGcefI/liiLTHyvMdUPMiEMIvS5LdMsUK\nEnMFf9frfAY+ZIZ7TkObPLoF2rVObdCFdhP4zsnlU349T7JzttBkrmlvdHxHgY23\nKcV/SwkJIgddAOEj+I0iVQLUExdupCNBv7kJKFgdLvYr8AmCTbOuIHZFNe/mhD45\nY1cV7oz8iRPuUYfohDz4vNUKtvfh0s8GpXoADsKjAQKBgQDv0N9XmOFPSqLWYXno\nz//AXnxpRPXRWJV4PBVYLHXjfNYxb+xFeLMhrU60JDUjsx7aBFOt8++P40ndA5Rt\ncv9N95nvmOqjvL5vWDC6pvaHRDJD10SyfKOKvK4OhAt0qa1YeKp4DtJa9r7slDDO\njOo3Njs2GeowVcylfpIcTTCviQKBgQDHUxWIGQR+Wb2Siwb9c5OE2YY3H0hI+ziG\nGhTdmQPPSp+4CwEGeF6sVwudIho6fj0UFfaH2/tcxzrSiFURJjhFpfn2npk8kWjk\nLZ6SVFcK+NISHXFeLPhr2+a8yQ8t70Nv/GIwXH+qj3StF3nzntgk9BrQBKxzzgUG\n6Z3zzE2m4QKBgQDuX8lQ8harUT3xKG0cPHw0Q/cYUEKjt5DDNb3lqjP4TqM9+sl4\n+JPeGr2LlB36AVbeUMS4uStb9An8lU1ZSaB6aG5r2a0J2lfUp22warvMEr5/7p9L\nZ1bMVeYRabFVYj97HF4d/mWbo359/INTHIDHJrHOgg3lw7MqoVgsp5GIOQKBgGoT\n/3uExO1xWQBqWPf90F59XX5seY3NlRFZRA2C55IkRsgtowgMe2YAlT+07HyAvoS4\nA5HeMvH3XYi54XvU+VGnuVXUpfyj7kyxMpjxpblDHplhbfoOuM6+IxgJcLijgyJQ\nEPln4NGmsxODUPWkbaeM+dAHDLg8xlQddGBRNGpBAoGBAKbJN1u3cn9N+5+kXrNC\nyRrj/TWzl6AvwesoyPvh5RVjcZtBgCvrOcKEIJ/yto3QI5OVdjT5kxwohqJ5NCqa\nDHef1I1pTaQeigtKtyh7vt/W1NMHVFSHPknOHxVIAaDlptmjn3teZ9EEsO1JsXxy\nHm9Np28UBGitPwn2sS/VhX/F\n-----END PRIVATE KEY-----\n",
+  "client_email": "suhas-378@tweetpostnews.iam.gserviceaccount.com",
+  "client_id": "112641321367512518298",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/suhas-378%40tweetpostnews.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
